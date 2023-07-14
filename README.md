@@ -11,4 +11,7 @@ Para rodar esse projeto, você precisará ter instalado em sua máquina:
 Siga os passos abaixo para rodar o projeto localmente.
 
 Continue...
+```
+node app.js
+```
 
